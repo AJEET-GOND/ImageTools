@@ -76,7 +76,6 @@ ImageTools/
 Personalized project packaging and documentation by **AJEET-GOND**. This project is adapted from the upstream ImageTools project by **Aditya S.** The upstream MIT license and copyright notice are retained in `LICENSE`; see that file for the applicable terms.
 
 - GitHub profile: https://github.com/AJEET-GOND
-- Upstream project: https://github.com/xditya/ImageTools
 
 ## Contributing
 
