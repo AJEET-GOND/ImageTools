@@ -1,3 +1,4 @@
+
 # ImageTools — by AJEET-GOND
 
 A Python command-line utility to resize images and compress them toward a target file size. Built for practical image-preparation tasks such as application forms and document uploads.
